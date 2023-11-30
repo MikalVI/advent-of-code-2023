@@ -2,8 +2,6 @@
 
 Repository for shared solutions of AoC 2023! This year *will* (might) be different!
 
-# Advent of Code - 2022 
-
 ## Solutions in python with an educational focus
 
 The code and documentation here are based around python solutions for the online advent-of-code project.
@@ -22,8 +20,10 @@ You probably want to start with the .md file in each puzzle subfolder.  If folde
 
 ## What you need
 
-- [Python 3](https://www.python.org/downloads/), pretty much any version beyond 3.6.  If you're on linux (ubuntu, or a raspberry pi), the command to run the scripts will probably be ```python3 filename.py``` rather than ```python filename.py```  
-- Your favourite text editor.  I usually use [VS Code](https://code.visualstudio.com/download), but you can use whatever you prefer. 
+- [Python 3](https://www.python.org/downloads/), any current version of python 3, which is 3.8 or later.  If you're on linux (ubuntu, or a raspberry pi), the command to run the scripts will probably be ```python3 filename.py``` rather than ```python filename.py```  
+- Your favourite text editor.  I usually use [VS Code](https://code.visualstudio.com/download), but you can use whatever you prefer.
+
+All my solutions will be presented in python, but you can of course use something else.  Bash, C/C++, one of the javascripts, Arduino, assembler, or even [butterflies](https://xkcd.com/378/).  Some of these tools are probably better than others, but I'm not here to judge.  You can use the datasets, or anything else here as suits.
 
 *Note:* You probably *can't* do this on a vanilla SOE box, although if you really want to, come and see me and we can sort that out too.  Getting python to run pretty much anywhere else should be straightforward, but again reach out if you run into any grief.
 
